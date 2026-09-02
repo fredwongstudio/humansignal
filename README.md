@@ -1,7 +1,5 @@
 # Human Signal
 
-**Palantir Deployment Strategist Proof of Work**
-
 > **The computer knows what was recorded. The humans know what actually happened.**
 
 Human Signal is a prototype exploring a simple idea:
