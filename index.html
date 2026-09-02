@@ -95,6 +95,16 @@
 }
 @media(max-width:800px){#intro .lede{margin-top:16px}}
 
+
+/* Desktop presentation scale: render the experience at the approved 120% visual size
+   while preserving a 100vw × 100dvh footprint. Mobile remains unchanged. */
+@media (min-width:801px){
+  .app{
+    width:83.333333vw;
+    height:83.333333dvh;
+    zoom:1.2;
+  }
+}
 </style>
 </head>
 <body>
